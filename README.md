@@ -1,32 +1,31 @@
 <h2 align="center">💫 About Me</h2>
 
-🔭 **I’m currently working on**  
-→ Developing responsive web apps during my internship at **Hunermand Technology (HT)**  
-→ Exploring beginner-level **AI projects**
+🔭 Currently Working On
+→ Developing responsive and scalable web applications during my internship at Hunermand Technology (HT)
+→ Exploring beginner-friendly Artificial Intelligence projects
 
-🧑‍🤝‍🧑 **I’m looking to collaborate on**  
-→ Projects in the field of **Artificial Intelligence**, such as:  
- • 🤖 Fake News Detection  
- • 💬 Chatbots using NLP  
- • 📚 AI tools for students  
- • 🔍 Mini ML-based integrations
+🧑‍🤝‍🧑 Looking to Collaborate On
+→ AI-focused projects such as:
+ • 🤖 Fake News Detection Systems
+ • 💬 NLP-based Chatbots
+ • 📚 AI-powered Tools for Students
+ • 🔍 Mini Machine Learning Integrations for Web Apps
 
-🤝 **I’m looking for help with**  
-→ Understanding ML algorithms  
-→ AI model deployment & backend integration
+🤝 Looking for Help With
+→ Understanding core Machine Learning algorithms
+→ Model deployment, API creation & backend integration
 
-🌱 **I’m currently learning**  
-→ 🐍 Python  
-→ 📊 ML concepts: classification, training models, preprocessing
+🌱 Currently Learning
+→ 🐍 Python Programming
+→ 📊 Machine Learning concepts: Data preprocessing, classification, model training & evaluation
 
-💬 **Ask me about**  
-→ Frontend tech  
-→ GitHub project setup  
-→ Getting started with AI as a CS student
+💬 Ask Me About
+→ Frontend Development (HTML, CSS, JS, React)
+→ GitHub project setup & collaboration
+→ Getting started with AI as a Computer Science student
 
-⚡ **Fun fact**  
-→ I love mixing AI with web dev — making apps that are smart *and* look great 😄
-
+⚡ Fun Fact
+→ I enjoy blending AI with Web Development to build applications that are both intelligent and visually appealing 😄
 ---
 
 <h2 align="center">🌐 Connect with Me</h2>
