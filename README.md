@@ -1,28 +1,8 @@
 <h2 align="center">💫 About Me</h2>
 
-🔭 Currently Working On
-→ Developing responsive and scalable web applications during my internship at Hunermand Technology (HT)
-→ Exploring beginner-friendly Artificial Intelligence projects
+I am a Computer Science Engineering student focused on building scalable, reliable, and performance-driven software systems. I am deeply interested in Data Structures, System Design, backend engineering, and solving complex real-world problems through clean and efficient code.
 
-🧑‍🤝‍🧑 Looking to Collaborate On
-→ AI-focused projects such as:
- • 🤖 Fake News Detection Systems
- • 💬 NLP-based Chatbots
- • 📚 AI-powered Tools for Students
- • 🔍 Mini Machine Learning Integrations for Web Apps
-
-🤝 Looking for Help With
-→ Understanding core Machine Learning algorithms
-→ Model deployment, API creation & backend integration
-
-🌱 Currently Learning
-→ 🐍 Python Programming
-→ 📊 Machine Learning concepts: Data preprocessing, classification, model training & evaluation
-
-💬 Ask Me About
-→ Frontend Development (HTML, CSS, JS, React)
-→ GitHub project setup & collaboration
-→ Getting started with AI as a Computer Science student
+I believe strong software is built on fundamentals — structured thinking, clear architecture, optimized database design, and maintainable code. My experience in software testing and web development strengthened my understanding of debugging production-level issues, authentication systems, performance optimization, and SDLC best practices.
 
 ⚡ Fun Fact
 → I enjoy blending AI with Web Development to build applications that are both intelligent and visually appealing 😄
